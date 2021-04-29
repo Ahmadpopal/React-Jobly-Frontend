@@ -1,0 +1,35 @@
+.Login-div-title {
+  margin-top: 40px;
+}
+
+.Login-form {
+  margin-top: 20px;
+}
+
+.Login-label {
+  margin: 5px;
+}
+
+.Login-Input {
+  margin: 5px;
+}
+
+.Login-signUp-div {
+  background-color: #1e90ff;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.Login-signUp-p {
+  display: inline-block;
+  margin: 10px;
+  color: white;
+}
+
+.Login-signUp-link {
+  color: black;
+}
+
+.Login-signUp-link.active {
+  color: green;
+}

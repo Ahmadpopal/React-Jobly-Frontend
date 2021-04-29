@@ -1,0 +1,42 @@
+.HomePage-main-div {
+  background-color: rgb(96, 165, 204);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 30rem;
+  margin: 5rem;
+  text-align: center;
+}
+
+.HomePage-div-title {
+  margin-top: 8rem;
+}
+
+.HomePage-login-button {
+  margin: 10px;
+  width: 7rem;
+  color: white;
+}
+
+.HomePage-login-link {
+  color: white;
+}
+
+.HomePage-login-link:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.HomePage-signup-button {
+  margin: 10px;
+  color: white;
+}
+
+.HomePage-signup-link {
+  color: white;
+}
+
+.HomePage-signup-link:hover {
+  color: white;
+  text-decoration: none;
+}

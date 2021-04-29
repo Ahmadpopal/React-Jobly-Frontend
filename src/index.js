@@ -4,6 +4,17 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// LINK IS IMPORTED FROM REACTSTRAP TO STYLE THE WEBSITE 
+// *
+// *
+// *
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+// INDEX FILE RENDERS APP COMPONENT
+// *
+// *
+// *
 ReactDOM.render(
   <React.StrictMode>
     <App />

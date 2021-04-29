@@ -1,0 +1,129 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SIGN UP TESTS snapshot should mataches 1`] = `
+<DocumentFragment>
+  <div
+    class="SignUp"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="SignUp-div-title col"
+        >
+          <h3
+            class="SingUp-h3"
+          >
+            Sign Up
+          </h3>
+        </div>
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="col"
+        >
+          <form
+            class="SignUp-form"
+          >
+            <div
+              class="form-group"
+            >
+              <label
+                class="SignUp-label"
+                for="username"
+              >
+                Username
+              </label>
+              <input
+                class="SignUp-input form-control"
+                name="username"
+                placeholder="Username here"
+                type="text"
+                value=""
+              />
+            </div>
+            <div
+              class="form-group"
+            >
+              <label
+                class="SignUp-label"
+                for="password"
+              >
+                Password
+              </label>
+              <input
+                class="SignUp-input form-control"
+                name="password"
+                placeholder="Username here"
+                type="password"
+                value=""
+              />
+            </div>
+            <div
+              class="form-group"
+            >
+              <label
+                class="SignUp-label"
+                for="firstName"
+              >
+                First Name
+              </label>
+              <input
+                class="SignUp-input form-control"
+                name="firstName"
+                placeholder="Username here"
+                type="text"
+                value=""
+              />
+            </div>
+            <div
+              class="form-group"
+            >
+              <label
+                class="SignUp-label"
+                for="lastName"
+              >
+                Last Name
+              </label>
+              <input
+                class="SignUp-input form-control"
+                name="lastName"
+                placeholder="Username here"
+                type="text"
+                value=""
+              />
+            </div>
+            <div
+              class="form-group"
+            >
+              <label
+                class="SignUp-label"
+                for="email"
+              >
+                Email
+              </label>
+              <input
+                class="SignUp-input form-control"
+                name="email"
+                placeholder="Username here"
+                type="email"
+                value=""
+              />
+            </div>
+            <button
+              class="SignUp-button btn btn-primary"
+            >
+              Register
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

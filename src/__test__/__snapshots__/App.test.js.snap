@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <div>
+      <nav
+        class="navbar bg-dark"
+        extend="md"
+      >
+        <ul
+          class="nav"
+        >
+          <a
+            class="nav-link"
+            href="/"
+          >
+            <li
+              class="nav-item"
+            >
+              Jobly
+            </li>
+          </a>
+          <a
+            class="nav-link"
+            href="/login"
+          >
+            <li
+              class="nav-item"
+            >
+              Log In
+            </li>
+          </a>
+          <a
+            class="nav-link"
+            href="/register"
+          >
+            <li
+              class="nav-item"
+            >
+              Sign Up
+            </li>
+          </a>
+        </ul>
+      </nav>
+    </div>
+    <div>
+      <div
+        class="container"
+      >
+        <div
+          class="row"
+        >
+          <div
+            class="HomePage-main-div col"
+          >
+            <div
+              class="row"
+            >
+              <div
+                class="HomePage-div-title col"
+              >
+                <h3>
+                  Welcome to Jobly Home Page.
+                </h3>
+                <h3>
+                  Open jobs.
+                </h3>
+                <h3>
+                  People hiring.
+                </h3>
+              </div>
+            </div>
+            <div
+              class="row"
+            >
+              <div
+                class="col"
+              >
+                <button
+                  class="HomePage-login-button btn btn-success"
+                >
+                  <a
+                    class="HomePage-login-link"
+                    href="/login"
+                  >
+                    Log In
+                  </a>
+                </button>
+                <button
+                  class="HomePage-signup-button btn btn-primary"
+                >
+                  <a
+                    class="HomePage-signup-button"
+                    href="/register"
+                  >
+                    Sign Up
+                  </a>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

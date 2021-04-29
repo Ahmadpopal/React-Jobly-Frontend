@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`JOBS TESTS  Jobs matches snapshot 1`] = `
+<DocumentFragment>
+  <h2>
+     Job List Loading.... 
+  </h2>
+</DocumentFragment>
+`;
